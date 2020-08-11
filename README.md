@@ -1,5 +1,5 @@
 # Coursera-Data-Science
 
-A compilation of all my notes from the Coursera course  "Data Science by John Hopkins University"
+A compilation of all my notes from the Coursera course  "Data Scientists Toolbox"
 
-https://coursera.org/share/605ac64a95c9ab0042cab6ff666e7064
+https://www.coursera.org/learn/data-scientists-tools
